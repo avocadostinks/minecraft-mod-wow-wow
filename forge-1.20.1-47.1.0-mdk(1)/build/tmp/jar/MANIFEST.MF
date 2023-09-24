@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: tmlsmod
+Specification-Vendor: TML
+Specification-Version: 1
+Implementation-Title: forge-1.20.1-47.1.0-mdk(1)
+Implementation-Version: 1.0.0-1.20.1
+Implementation-Vendor: TML
+Implementation-Timestamp: 2023-09-24T12:34:48-0400
+
